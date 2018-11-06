@@ -6,8 +6,6 @@
 
 ### 测试
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```测试
 
 # 测试
