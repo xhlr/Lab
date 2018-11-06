@@ -22,4 +22,4 @@
 
 [Link](url) and ![Image](src)
 ```
-[详情咨询](http://github.com/jamesyangget)
+[详情咨询](https://github.com/jamesyangget)
